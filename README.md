@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Eslam Mohamed Abdelmaqsoud
-🙋‍♂
-<br>
+Hi 👋, I'm Eslam Mohamed Abdelmaqsoud<br>
+A passionate Android developer
+
 
 
 ## 🌐 Socials:
