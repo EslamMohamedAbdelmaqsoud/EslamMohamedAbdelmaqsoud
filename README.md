@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Eslam Mohamed Abdelmaqsoud<br>
-I am an odoo developer and Android developer with experience 5 months in building high-quality mobile apps for Android. I am proficient in Android Studio and Java programming languages, and I have a strong understanding of cross-platform development.
+I am an Odoo developer and Android developer with experience 5 months in building high-quality mobile apps for Android. I am proficient in Android Studio and Java programming languages, and I have a strong understanding of cross-platform development.
 
 
 
