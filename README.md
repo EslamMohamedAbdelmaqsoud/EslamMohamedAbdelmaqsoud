@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Eslam Mohamed Abdelmaqsoud<br>
-I am an Odoo developer and have a solid foundation in the Python language that Odoo uses. I have also developed custom modules based on business requirements. I’m seeking a challenging position in a growing company as an Odoo developer where I can utilize my experience in developing and maintaining efficient business applications using the Odoo framework. I enjoy working within a collaborative team and providing the best solutions to companies.
+I am an Odoo developer with a solid foundation in the Python language that Odoo uses. I have also developed custom modules based on business requirements. I’m seeking a challenging position in a growing company as an Odoo developer where I can utilize my experience in developing and maintaining efficient business applications using the Odoo framework. I enjoy working within a collaborative team and providing the best solutions to companies.
 
 
 ## 🌐 Socials:
